@@ -1,0 +1,14 @@
+#site_url: "https://test-stand.gb.ru"
+url_login: "https://test-stand.gb.ru/gateway/login"
+url_create_post: "https://test-stand.gb.ru/api/posts"
+url_get_posts: "https://test-stand.gb.ru/api/posts"
+login1: "CotCat"
+password1: "d09da299ca"
+
+
+#login2: "GB202212b688e1"
+#password2:  "61b364386b"
+
+login2: "Salut"
+password2: "af4fef1bc0"
+#title: "Русские пельмени"
