@@ -5,3 +5,7 @@
 /Klass_work1_pytest/lib_zeep/
 /Klass_work1_pytest/req_lib/.pytest_cache/
 /Lection1/
+ ../__pycache__/
+        __pycache__/
+        ../../__pycache__/
+
