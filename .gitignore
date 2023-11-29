@@ -1,12 +1,3 @@
-/.idea/
-/.pytest_cache/
-/bmu1986/
-/Klass_work1_pytest/.pytest_cache/
-/Klass_work1_pytest/lib_zeep/
-/Klass_work1_pytest/req_lib/.pytest_cache/
-/Lection1/
- ../__pycache__/
-        __pycache__/
-        ../../__pycache__/
+
 
 
